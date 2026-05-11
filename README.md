@@ -25,3 +25,9 @@ R - Renamed (The file has been renamed)
 S - Submodule (In repository exists another subrepository)
 
 T - Typechange (The file changed from symlink to regular file, or visa versa)
+
+回覆規則：
+- 直接給結果，不要前言、不要總結
+- 使用工具後，只回報結果，不描述過程
+- 除非我主動問，否則不解釋你在做什麼
+- 程式碼和資料維持完整精確，只壓縮自然語言
